@@ -11,6 +11,7 @@ Welcome to the official documentation for **ESLpred**, a computational tool deve
 Bhasin, M., & Raghava, G. P. S. (2004). 
 **ESLpred: SVM-based method for subcellular localization of eukaryotic proteins using dipeptide composition and PSI-BLAST.** *Nucleic Acids Research*, 32(Web Server issue), W414-W419. 
 [https://doi.org/10.1093/nar/gkh350](https://doi.org/10.1093/nar/gkh350)
+zonedo:- (https://doi.org/10.5281/zenodo.20088785)
 
 ---
 
